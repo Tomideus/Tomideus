@@ -4,7 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-saleme-sastre/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-sastre-camino-5bb761239)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusspokedata&langs_count=8&count_private=true&theme=dracula&line_height=10">
 </p>
